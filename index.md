@@ -2,9 +2,7 @@
 layout: default
 ---
 
-## Personal details
-
-Research associate at Technical University of Munich.
+Current job position: research associate at Technical University of Munich.
 
 Current focus:
 
