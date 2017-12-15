@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Personal details
+
+Research associate at Technical University of Munich.
+
+For some project details, see <a href="https://dbobkov.github.io/segmentation">object segmentation</a>.
 
 You can use the [editor on GitHub](https://github.com/DBobkov/dbobkov.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
