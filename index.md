@@ -16,9 +16,9 @@ Education: Technical University of Munich, M.Sc. in Electrical Engineering and I
 More info:
 
 1. For my university website profile, see <a href="http://www.lmt.ei.tum.de/en/team/team/dmytro-bobkov.html">here</a>.
-2. My Google Scholar profile can be found <a href="https://scholar.google.de/citations?user=JglzFxgAAAAJ&hl=en">here</a>.
-3. My DBLP entry (publication database) can be found <a href="http://dblp.uni-trier.de/pers/hd/b/Bobkov:Dmytro">here</a>.
-4. My ORCID is <a href="https://orcid.org/0000-0002-5096-8891">0000-0002-5096-8891</a>.
-5. My Github profile can be found <a href="https://github.com/dbobkov">here</a>.
-6. My email is d_m_y_t_r_o.b_o_b_k_o_v_@_t_u_m.d_e (remove underscores).
-7. My Linkedin profile can be found <a href="https://www.linkedin.com/in/dmytro-bobkov-43376041/">here</a>.
+2. Google Scholar profile can be found <a href="https://scholar.google.de/citations?user=JglzFxgAAAAJ&hl=en">here</a>.
+3. DBLP entry (publication database) can be found <a href="http://dblp.uni-trier.de/pers/hd/b/Bobkov:Dmytro">here</a>.
+4. ORCID is <a href="https://orcid.org/0000-0002-5096-8891">0000-0002-5096-8891</a>.
+5. Github profile can be found <a href="https://github.com/dbobkov">here</a>.
+6. Email is d_m_y_t_r_o.b_o_b_k_o_v_@_t_u_m.d_e (remove underscores).
+7. Linkedin profile can be found <a href="https://www.linkedin.com/in/dmytro-bobkov-43376041/">here</a>.
