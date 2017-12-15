@@ -2,40 +2,17 @@
 
 Research associate at Technical University of Munich.
 
-For some project details, see <a href="https://dbobkov.github.io/segmentation">object segmentation</a>.
+Current focus:
 
-You can use the [editor on GitHub](https://github.com/DBobkov/dbobkov.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+1. Segmentation of point cloud data of buildings and indoor environments into semantic elements, such as building parts, rooms, objects <a href="https://dbobkov.github.io/room-segmentation">room segmentation</a>.
+2. Object recognition and matching: 2D/3D deep learning <a href="https://dbobkov.github.io/segmentation">object segmentation</a>.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Education: Technical University of Munich, M.Sc. in Electrical Engineering and Information Technology.
 
-### Markdown
+More info:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DBobkov/dbobkov.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+1. For my university website, see <a href="http://www.lmt.ei.tum.de/en/team/team/dmytro-bobkov.html">here</a>.
+2. My google scholar profile can be found <a href="https://scholar.google.de/citations?user=JglzFxgAAAAJ&hl=en">here</a>.
+3. My DBLP entry (publication database) can be found <a href="http://dblp.uni-trier.de/pers/hd/b/Bobkov:Dmytro">here</a>.
+4. My ORC-ID is <a href="http://orcid.org/0000-0002-5096-8891">0000-0002-5096-8891</a>.
+5. My Github profile can be found at <a href="https://github.com/dbobkov>Github</a>.
