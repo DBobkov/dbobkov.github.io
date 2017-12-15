@@ -15,4 +15,4 @@ More info:
 2. My google scholar profile can be found <a href="https://scholar.google.de/citations?user=JglzFxgAAAAJ&hl=en">here</a>.
 3. My DBLP entry (publication database) can be found <a href="http://dblp.uni-trier.de/pers/hd/b/Bobkov:Dmytro">here</a>.
 4. My ORC-ID is <a href="http://orcid.org/0000-0002-5096-8891">0000-0002-5096-8891</a>.
-5. My Github profile can be found at <a href="https://github.com/dbobkov>Github</a>.
+5. My Github profile can be found at <a href="https://github.com/dbobkov">Github</a>.
