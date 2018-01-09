@@ -7,7 +7,7 @@ Current job position: research associate at Technical University of Munich.
 Research interests:
 
 1. Unsupervised segmentation (partitioning) of point cloud data of indoor environments into semantic elements, such as building parts, rooms, objects. <a href="https://dbobkov.github.io/room-segmentation">More info on room segmentation</a>. <a href="https://dbobkov.github.io/segmentation">More info on object segmentation</a>.
-2. Object recognition and matching using 2D/3D deep learning. 
+2. Object recognition and matching using 2D/3D deep learning.  <a href="https://dbobkov.github.io/object-descriptor/">More info on object descriptor</a>.
 
 Education: Technical University of Munich, M.Sc. in Electrical Engineering and Information Technology.
 
