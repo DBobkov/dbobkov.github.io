@@ -18,5 +18,4 @@ More info:
 3. DBLP entry (publication database) can be found <a href="http://dblp.uni-trier.de/pers/hd/b/Bobkov:Dmytro">here</a>.
 4. ORCID is <a href="https://orcid.org/0000-0002-5096-8891">0000-0002-5096-8891</a>.
 5. Github profile can be found <a href="https://github.com/dbobkov">here</a>.
-6. Email is dmytro.bobkov@tum_de (replace underscore with dot ".").
-7. Linkedin profile can be found <a href="https://www.linkedin.com/in/dmytro-bobkov-43376041/">here</a>.
+6. Linkedin profile can be found <a href="https://www.linkedin.com/in/dmytro-bobkov-43376041/">here</a>.
