@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Current job position: research associate at Technical University of Munich.
+Current job position: Computer vision & AI engineer at <a href="https://www.artisense.ai/">Artisense</a>.
 
 Research interests:
 
